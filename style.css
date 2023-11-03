@@ -13,6 +13,10 @@ input {
   width: 279px;
   height: 40px;
   background-color: beige;
+<<<<<<< HEAD
+=======
+  /* border: 1px solid black; */
+>>>>>>> 1aa3605 (Initial commit)
   border: none;
   text-align: end;
 }
