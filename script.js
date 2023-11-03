@@ -25,15 +25,7 @@ for (let i = 0; i < digitBtn.length; i++) {
   });
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 // all-operators..
-=======
-// all-operators
->>>>>>> 1aa3605 (Initial commit)
-=======
-// all-operators..
->>>>>>> d1db3ec (Initial Commit)
 const stack = [];
 const operatorBtn = document.getElementsByClassName("operator");
 for (let i = 0; i < operatorBtn.length; i++) {
